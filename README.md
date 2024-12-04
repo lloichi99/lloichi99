@@ -5,7 +5,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-<img align="right" width=335px alt="Unicorn" src="https://i.pinimg.com/originals/08/fb/61/08fb615b1a389de5bc0410136d75f50d.gif" /><br>
+<img align="right" width=335px alt="Unicorn" src="https://i.pinimg.com/originals/08/fb/61/08fb615b1a389de5bc0410136d75f50d.gif" /><br><b>
 
 Systems Engineering student 
 * **I am interested in Web development,and cloud services**
